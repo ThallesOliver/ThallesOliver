@@ -16,10 +16,10 @@
 
 Crio sites, aplicativos e sistemas sob medida, do planejamento ao código, com foco em interfaces claras e que funcionam bem em qualquer tela.
 
-- 💻 **Estagiário de Desenvolvimento Web** na Fluvi Soluções Digitais
-- 🛠️ **Estagiário de Suporte de TI** na Prefeitura Municipal de Ilhabela
-- 🎓 **Engenharia de Software** no Centro Universitário Módulo
-- 📍 Ilhabela, SP · aberto a oportunidades
+-  **Estagiário de Desenvolvimento Web** na Fluvi Soluções Digitais
+-  **Estagiário de Suporte de TI** na Prefeitura Municipal de Ilhabela
+-  **Engenharia de Software** no Centro Universitário Módulo
+-  Ilhabela, SP · aberto a oportunidades
 
 ### Tecnologias
 
