@@ -1,7 +1,7 @@
 <h1 align="center">Thalles Oliveira</h1>
 
 <p align="center">
-  Desenvolvedor web · Co-fundador da <a href="https://www.zentrasistemas.com.br/">Zentra</a> · Estudante de Engenharia de Software
+  Desenvolvedor web · Estudante de Engenharia de Software
 </p>
 
 <p align="center">
