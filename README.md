@@ -16,7 +16,6 @@
 
 Crio sites, aplicativos e sistemas sob medida, do planejamento ao código, com foco em interfaces claras e que funcionam bem em qualquer tela.
 
-- 🚀 **Co-fundador da [Zentra](https://www.zentrasistemas.com.br/)**: sites, apps e sistemas para negócios, incluindo cardápio digital por NFC e QR Code
 - 💻 **Estagiário de Desenvolvimento Web** na Fluvi Soluções Digitais
 - 🛠️ **Estagiário de Suporte de TI** na Prefeitura Municipal de Ilhabela
 - 🎓 **Engenharia de Software** no Centro Universitário Módulo
